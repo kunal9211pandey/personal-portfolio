@@ -28,7 +28,8 @@ About Storage Accounts:- A storage account provides a unique namespace in Azure 
 
 Step We are Follow:
 
-![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/4e085fb8-66f5-49b3-aa7c-70c3ef5bf061)
+![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/54179827-24f1-487f-897d-ac925df08365)
+
 
 ![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/a1ed982c-8f1e-4cc6-ad0e-c3f912c41e28)
 
