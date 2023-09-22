@@ -47,7 +47,8 @@ Step We are Follow:
 
 About Static Page:-Static websites are website served from a storage server or a content delivery network (CDN). There is no need to have a running server creating the HTML files. These websites are pre-built as HTML files that are stored somewhere on the internet and then served as they were built.
 
-![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/af8ea9f5-6950-42a3-8408-4396114ded56)
+![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/960e83f5-6dae-4b95-8cd0-f5fa45fa1d07)
+
 
 ![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/d7731e4b-caaa-4318-9aa5-d7bd28baca15)
 
