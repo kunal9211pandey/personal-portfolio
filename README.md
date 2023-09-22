@@ -63,16 +63,5 @@ ScreenSort Of Contact Us Secation
 ![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/6502ff1b-8674-4bd4-84fc-bde1dbe15140)
 
 
-                     Thank You !
-
-
-
-
-
-
-
-
-
-
-  4. 
+                     
      
