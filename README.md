@@ -28,11 +28,38 @@ About Storage Accounts:- A storage account provides a unique namespace in Azure 
 
 Step We are Follow:
 
+![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/4e085fb8-66f5-49b3-aa7c-70c3ef5bf061)
+
+![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/a1ed982c-8f1e-4cc6-ad0e-c3f912c41e28)
+
+![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/5df21d0c-5694-4f19-ad6c-5ded43420c7d)
+
+
+
+
   2. Static Web Apps:-
 
 -- After upload all the file in the Cloud Storage , we are deployee our website in the cloud , so that we can use and see your website in anywhere , any location . they are one kind of hosting where we are deployee our project (website ) in temporary.
 
 About Static Page:-Static websites are website served from a storage server or a content delivery network (CDN). There is no need to have a running server creating the HTML files. These websites are pre-built as HTML files that are stored somewhere on the internet and then served as they were built.
+
+![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/af8ea9f5-6950-42a3-8408-4396114ded56)
+
+![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/d7731e4b-caaa-4318-9aa5-d7bd28baca15)
+
+![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/725602a8-b182-41b2-83cb-c343d9da0057)
+
+![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/87aef704-4f3a-4b59-b6d8-82c18a55637a)
+
+![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/a08576f5-3e7d-4641-8b4d-e9b25fce6380)
+
+![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/fd10db36-82eb-445d-9bff-26edff176b1c)
+
+
+
+
+
+
 
 ScreenSort Of Home Page
 
