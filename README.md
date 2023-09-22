@@ -54,7 +54,20 @@ About Static Page:-Static websites are website served from a storage server or a
 
 ![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/725602a8-b182-41b2-83cb-c343d9da0057)
 
-![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/87aef704-4f3a-4b59-b6d8-82c18a55637a)
+![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/701b0905-47e1-4086-bbc5-0bccce19115f)
+
+![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/89ed3f49-fe4f-476c-a429-f55e28199383)
+
+![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/9b940c4f-7349-4642-9fe9-a319eac86c8a)
+
+![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/85237ccb-0b9f-41c8-96b8-f0facaac4704)
+
+![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/94361a1b-618d-4c6d-81b2-a48d0a41856c)
+
+
+
+
+
 
 ![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/a08576f5-3e7d-4641-8b4d-e9b25fce6380)
 
