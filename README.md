@@ -50,10 +50,6 @@ About Static Page:-Static websites are website served from a storage server or a
 ![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/960e83f5-6dae-4b95-8cd0-f5fa45fa1d07)
 
 
-![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/d7731e4b-caaa-4318-9aa5-d7bd28baca15)
-
-![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/725602a8-b182-41b2-83cb-c343d9da0057)
-
 ![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/701b0905-47e1-4086-bbc5-0bccce19115f)
 
 ![image](https://github.com/kunal9211pandey/personal-portfolio/assets/118272078/89ed3f49-fe4f-476c-a429-f55e28199383)
