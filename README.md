@@ -3,6 +3,8 @@
 this is my future ready talent project
 
 project link :- https://vickyjhaportfolio.z29.web.core.windows.net/
+
+video link :- https://www.youtube.com/watch?v=ABjkHM5jybE
  
 
 Probleam Statement:- developing a portfolio where we can add all our professional information, works , achievements and experiences.
