@@ -2,6 +2,10 @@
 
 this is my future ready talent project
 
+project link :- https://vickyjhaportfolio.z29.web.core.windows.net/
+
+Video link :-
+
 Probleam Statement:- developing a portfolio where we can add all our professional information, works , achievements and experiences.
 
 Problem Descripation:- We have designed this project with the help of the tools such as HTML  and CSS and developed this Portfolio which contains our professional qualifications or information, our work, achievements and experiences..
